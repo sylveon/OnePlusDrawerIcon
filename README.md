@@ -1,4 +1,4 @@
-# Xposed.OnePlus2DrawerIcon
+# OnePlus2DrawerIcon
 Change your app drawer's icon for the one included in OnePlus 2
 
 Here's a little module I created. Pretty straightforward. Install, activate in Xposed and reboot. No configuration, just works. I tested it only on KitKat with Trebuchet, but should work with Stock/Google/Trebuchet Launcher from ICS to KK.
