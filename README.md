@@ -13,6 +13,9 @@ If anything doesn't work, you're welcome to file an issue. I'll make sure to ful
 - Trebuchet
 - Launcher2
 - Launcher3
+- Apex (You will have to set your app drawer icon as `Lollipop` under `Apex settings` > `Drawer settings` > `Drawer icon style`)
+- Google Now Launcher
+- SlimLauncher
 
 ## Screenshots
 
