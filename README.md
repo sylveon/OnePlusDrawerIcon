@@ -61,7 +61,7 @@ To compile a usable `.apk` file, run `gradlew assembleRelease`
 
 If you want to sign the `.apk`, use the solution described [here](http://stackoverflow.com/a/21020469/2884575).
 
-Th `.apk` will be in `<repo>\app\build\outputs\apk\app-release.apk`
+The `.apk` will be in `<repo>\app\build\outputs\apk\app-release.apk`
 
 ## Installing
 
