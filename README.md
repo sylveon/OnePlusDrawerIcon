@@ -6,7 +6,7 @@ Users of custom ROM might be interested in this to restore the icon from stock.
 
 Technically, it should work with any launcher based on the stock one, on any version starting from Ice Cream Sandwich.
 
-If anything doesn't work, you're welcome to file an issue. I'll make sure to fulfill any request well detailled (version of Android and name of launcher used)
+If anything doesn't works, you're welcome to file an issue. I'll make sure to fulfill any request well detailled (version of Android and name of launcher used)
 
 ## Confirmed working on
 
