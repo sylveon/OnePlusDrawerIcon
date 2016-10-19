@@ -3,14 +3,14 @@
 
     <application
         android:icon="@drawable/drawer"
-        android:label="OnePlus 2 Drawer Icon">
+        android:label="OnePlus Drawer Icon">
 
         <meta-data
             android:name="xposedmodule"
             android:value="true" />
         <meta-data
             android:name="xposeddescription"
-            android:value="Change your app drawer's icon for the one included in OnePlus 2" />
+            android:value="Change your app drawer's icon for the one included in OnePlus devices" />
         <meta-data
             android:name="xposedminversion"
             android:value="53" />

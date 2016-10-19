@@ -1,6 +1,6 @@
-# OnePlus 2 Drawer Icon
+# OnePlus Drawer Icon
 
-This little Xposed modules makes the app drawer's icon in your launcher look like the one from the OnePlus 2's stock ROM, OxygenOS.
+This little Xposed modules makes the app drawer's icon in your launcher look like the one from the OnePlus devices' stock ROM, OxygenOS.
 
 Users of custom ROM might be interested in this to restore the icon from stock.
 
